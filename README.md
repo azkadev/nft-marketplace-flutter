@@ -1,16 +1,17 @@
-# app_azkadev
+IyBhcHBfYXprYWRldgoKQSBuZXcgRmx1dHRlciBwcm9qZWN0LgoKIyMgR2V0
+dGluZyBTdGFydGVkCgpUaGlzIHByb2plY3QgaXMgYSBzdGFydGluZyBwb2lu
+dCBmb3IgYSBGbHV0dGVyIGFwcGxpY2F0aW9uLgoKQSBmZXcgcmVzb3VyY2Vz
+IHRvIGdldCB5b3Ugc3RhcnRlZCBpZiB0aGlzIGlzIHlvdXIgZmlyc3QgRmx1
+dHRlciBwcm9qZWN0OgoKLSBbTGFiOiBXcml0ZSB5b3VyIGZpcnN0IEZsdXR0
+ZXIgYXBwXShodHRwczovL2ZsdXR0ZXIuZGV2L2RvY3MvZ2V0LXN0YXJ0ZWQv
+Y29kZWxhYikKLSBbQ29va2Jvb2s6IFVzZWZ1bCBGbHV0dGVyIHNhbXBsZXNd
+KGh0dHBzOi8vZmx1dHRlci5kZXYvZG9jcy9jb29rYm9vaykKCkZvciBoZWxw
+IGdldHRpbmcgc3RhcnRlZCB3aXRoIEZsdXR0ZXIsIHZpZXcgb3VyCltvbmxp
+bmUgZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9mbHV0dGVyLmRldi9kb2NzKSwg
+d2hpY2ggb2ZmZXJzIHR1dG9yaWFscywKc2FtcGxlcywgZ3VpZGFuY2Ugb24g
+bW9iaWxlIGRldmVsb3BtZW50LCBhbmQgYSBmdWxsIEFQSSByZWZlcmVuY2Uu
+Cg==
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
